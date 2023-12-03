@@ -1,1 +1,5 @@
-The assignmnet had competititve and non-competititve parts. The non-comp part used a standard CNN-LSTM encoder decoder architecture which is described in the assingment statement. For the competitive part I used ResNeST-50 as my encoder model, and LSTM with Bahdanau Attention as the decoder model. To use the code provided in this repo, install ResNeST-50 from PyTorch Hub and use torch.save to store the complete model in the same directory. Name the saved model as 'resnest50.model'
+The assignmnet had competititve and non-competititve parts. The non-comp part used a standard CNN-LSTM encoder decoder architecture which is described in the assingment statement. 
+
+For the competitive part I used ResNeST-50 as my encoder model, and LSTM with Bahdanau Attention as the decoder model. 
+
+To use the code provided in this repo, install ResNeST-50 from PyTorch Hub and use torch.save to store the complete model in the same directory. Name the saved model as 'resnest50.model'
