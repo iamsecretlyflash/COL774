@@ -10,4 +10,4 @@ model = torch.hub.load('zhanghang1989/ResNeSt', 'resnest50', pretrained=True)
 model.eval()
 ~~~
 
-The dataset for the task can be found [here] (Due to the size of the dataset there are some problems in uploading it. Will update once resolved). Download the dataset and keep it in the root directory.
+The dataset for the task can be found [here](https://paperswithcode.com/dataset/im2latex-100k) (Due to the size of the dataset, the link does not lead to the exact contest dataset. Will update once resolved). Download the dataset and keep it in the root directory.
