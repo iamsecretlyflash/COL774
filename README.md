@@ -12,3 +12,6 @@ COL774 is hands down one of the most difficult and interesting course at IIT Del
 
 ## Topic wise tips
 1) Support Vector Machines
+   - Be thorough with Duality Theory.
+   - Refer [here](www.google.com) for notes on calculating 'b'. (To be updated)
+   - What would happen if you use hard-margin SVM with non-linearly seperable data? [Answer](www.google.com) (To be updated)
