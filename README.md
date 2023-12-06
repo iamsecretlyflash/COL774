@@ -4,7 +4,7 @@ This repository contains assignments for the course [COL774 (Machine Learning)](
 
 COL774 is hands down one of the most difficult and interesting course at IIT Delhi. Prof. Parag gives a significant weightage to exams which are often extremely difficult, but fun to solve if your basic concepts are clear, and you have a good imagination ;). Now, in my opinion there is a pretty simple way to score a 10 in this course. Here are a few tips that will help you throughout this course:
 
- - Do not listen top people whio say machine learning is hoax or scam. They are just kidding themselves. Machine Learning is a very important skill today. Perhaps, as important as how knowing how to access the internet is.
+ - Do not listen top people who say machine learning is hoax or scam. They are just kidding themselves. Machine Learning is a very important skill today. Perhaps, as important as knowing how to access the internet is.
  - Keep in touch with the classes. Try to attend as many classes as you can because Prof. Parag is one of the best professors at the institute. His way of teaching is simple but elegant. He explains all concepts quite nicely, and also gives poitners on how to attempt exams.
  - Andrew Ng's Notes. Very important. The math in them is quite nicely explained and they are actually very simple to understand.
  - Vector Calculus and Optimisation. You will not survive this course if you do not have a good grasp over vector calculus. As for optimisation, it comes in handy while studying SVMs and PCA. Be thorough with the theory of lagrangians and the KKT Property for Dual problems.
@@ -21,8 +21,8 @@ COL774 is hands down one of the most difficult and interesting course at IIT Del
    - PyTorch documentation is your best friend. Every function and feature of PyTorch is extremely well documented. There are tons of tutorial available as well. For instance, I found this [tutorial](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html) on sequnce-to-sequence learning using LSTMs extemely helpful.
    - The PyTorch community is extremely vast and there's a very high chance that somebody has already worked on the code that you are working on, or something similar to it.
 
-3) HPC Access (only for IITD students)
-   - Follow everything on this [webpage](https://github.com/kanha95/HPC-IIT-Delhi). Prof. will organise a session on HPC but I think the tutorial linked was far more helpful than the session.
-   - For internet access, do not forget to run "export ftp_proxy = 10.10.78.22:3128" (btech) in the terminal. This way you will be able to install packages using pip on your login node.
+3) HPC (only for IITD students)
+   - Follow everything on this [webpage](https://github.com/kanha95/HPC-IIT-Delhi). Prof. will organise a session on HPC but I think the tutorial I have linked will be far more helpful than the session.
+   - For internet access, do not forget to run "export ftp_proxy = 10.10.78.22:3128" (btech) in the terminal (along with other commands). This way you will be able to install packages using pip on your login node.
    - The icelake server offers A100 GPU, and it's the best GPU you'll get for the course. Before you ask for GPU access make sure to use "screen" so that you do not accidentally lose GPU access. Also, icelake has CUDA 12 (as of 6th December 2023), so you will need to install the latest PyTorch using pip to use GPU while training. "module load" gives an older version of PyTorch which is not built with the latest CUDA.
    - (If you can't tell already, CUDA is a headache)
