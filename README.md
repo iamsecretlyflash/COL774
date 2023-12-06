@@ -9,3 +9,6 @@ COL774 is hands down one of the most difficult and interesting course at IIT Del
  - Andrew Ng's Notes. Very important. The math in them is quite nicely explained and they are actually very simple to understand.
  - Vector Calculus and Optimisation. You will not survive this course if you do not have a good grasp over vector calculus. As for optimisation, it comes in handy while studying SVMs and PCA. Be thorough with the theory of lagrangians and the KKT Property for Dual problems.
  - PYQs: You can either axe your grade or do PYQs. It's as simple as that.
+
+## Topic wise tips
+1) Support Vector Machines
