@@ -1,6 +1,6 @@
 # COL774 - Machine Learning
 
-This repository contains assignments for the course [COL774 (Machine Learning)](https://www.cse.iitd.ac.in/~parags/teaching/col774/) by Prof. Parag Singla during the Fall Semester 2023-24
+This repository contains assignments, lecture notes, exmas and tips for the course [COL774 (Machine Learning)](https://www.cse.iitd.ac.in/~parags/teaching/col774/) by Prof. Parag Singla during the Fall Semester 2023-24
 
 COL774 is hands down one of the most difficult and interesting course at IIT Delhi. Prof. Parag gives a significant weightage to exams which are often extremely difficult, but fun to solve if your basic concepts are clear, and you have a good imagination ;). Now, in my opinion there is a pretty simple way to score a 10 in this course. Here are a few tips that will help you throughout this course:
 
