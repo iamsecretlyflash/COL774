@@ -32,4 +32,4 @@ COL774 is hands down one of the most challenging and exciting courses at IIT Del
 ## What to do once you are done with COL774?
 
 1) You can take COL775(DL) and/or NLP(ELL881/COL772) in the following sem. Very interesting and the courses will cover most of the currently used techniques in DL, ML and AI.
-2) Read Pattern Recognition and Machine Learning (Bishop). Absolutely amazing book. Big time Brainfuck but absolutely amazing.
+2) Read Pattern Recognition and Machine Learning (Bishop). Absolutely amazing book. Big time Brainfuck but mindblowing.
